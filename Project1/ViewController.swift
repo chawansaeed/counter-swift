@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     
 
     @IBOutlet weak var counterLabel: UILabel!
-    var counter = 0
+    var counter = 1
     
 
     override func viewDidLoad() {
